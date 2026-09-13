@@ -1,4 +1,16 @@
 {
   "version": 1,
-  "tracks": []
+  "tracks": [
+    {
+      "id": "1789316202969",
+      "title": {
+        "english": "Hai Dua Khush Rahe",
+        "malayalam": "Hai Dua Khush Rahe"
+      },
+      "category": "nasheed",
+      "filename": "Teachers.Day.poem.2024..Hai.Dua.Khush.Rahe.Zaat.Ustad.Ki..Hafiz.Zubair.Ahmad..JSM.Releases.-.JSM.Releases.mp3",
+      "sizeMB": 14.51,
+      "uploadedAt": "2026-09-13T16:16:40Z"
+    }
+  ]
 }
